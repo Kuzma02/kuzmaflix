@@ -13,7 +13,7 @@ export const MovieDetail = () => {
       method: 'GET',
       headers: {
         accept: 'application/json',
-        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3M2YyY2Y3MTRiMzU4NzM5ZDIxNmIxYTVkMThjNGQ2ZSIsInN1YiI6IjY0YWFiOTUyNmEzNDQ4MDEwYjcwOGI1YSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.2vmh8w4G_VxN7tK4YDuWVR9uVhYjMTOyP9qUSC7tet8'
+        Authorization: `${process.env.REACT_APP_API_KEY}`
       }
     };
     
