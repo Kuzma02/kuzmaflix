@@ -21,7 +21,7 @@ export const MovieDetail = () => {
       .then(response => response.json())
       .then(response => {setMovie(response);console.log(response)})
       .catch(err => console.error(err));
-  }, [params]);
+  }, [params.id]);
 
   useEffect(() => {
     document.title = `${movie.title} / Kuzmaflix`;
