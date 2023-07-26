@@ -1,3 +1,6 @@
+# Kuzmaflix - Movie info website made with React.js
+![kuzmaflix](https://github.com/Kuzma02/kuzmaflix/assets/138793624/631fdf57-b7ad-44fb-99aa-210d63b6caf4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
