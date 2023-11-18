@@ -1,73 +1,36 @@
 # Kuzmaflix - Movie info website made with React.js
-![kuzmaflix](https://github.com/Kuzma02/kuzmaflix/assets/138793624/631fdf57-b7ad-44fb-99aa-210d63b6caf4)
 
-# Getting Started with Create React App
+# Project Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Kuzmaflix is a dynamic web application designed to provide users with detailed information about a wide array of movies. Utilizing a popular movie database API, this website serves as a one-stop destination for movie enthusiasts looking to explore and discover films. The application boasts a dark mode for enhanced visual comfort, a robust search functionality, and a visually appealing design.
 
-## Available Scripts
+# Key Features:
 
-In the project directory, you can run:
+- Dark Mode: A user-friendly dark theme that reduces eye strain and enhances the viewing experience, especially in low-light conditions.
+- Search Functionality: An efficient and powerful search engine that allows users to easily find movies based on titles, genres, actors, and more.
+- API Integration: Seamless integration with a popular movie database API, ensuring access to a vast and up-to-date collection of movie information.
+- High-Quality Design: A clean, modern, and responsive design that provides an engaging user interface across various devices and screen sizes.
+- Movie Details: Comprehensive information for each movie, including synopsis, cast, ratings, release dates, and trailers.
 
-### `npm start`
+# Instructions:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. When you download repository, open a terminal and write: npm install
+2. After it has finished installing, you write: npm start
+3. And enjoy!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Or you can see it live:
 
-### `npm test`
+[Click to see this text to see it live](https://kuzmaflix.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Full home page
 
-### `npm run build`
+![kuzmaflix home full](https://github.com/Kuzma02/kuzmaflix/assets/138793624/c6adfd96-a8ca-4e7c-a177-0e831dcc7f45)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Full search page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![kuzmaflix search full](https://github.com/Kuzma02/kuzmaflix/assets/138793624/65f09a1e-4e12-426c-a5de-479798440696)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Single movie page
 
-### `npm run eject`
+![kuzmaflix single movie](https://github.com/Kuzma02/kuzmaflix/assets/138793624/e932941c-c5e1-4d41-ba49-de62f0089428)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
