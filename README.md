@@ -20,7 +20,7 @@ Kuzmaflix is a dynamic web application designed to provide users with detailed i
 
 # Or you can see it live:
 
-[Click to see this text to see it live](https://kuzmaflix.netlify.app/)
+[Click this text to see it live](https://kuzmaflix.netlify.app/)
 
 # Full home page
 
